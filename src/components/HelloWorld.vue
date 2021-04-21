@@ -51,6 +51,11 @@ a {
   left: -190px;
   width: 1710px;
   height: 766px;
+  background:  #3A4547;
+  backdrop-filter: blur(46px) brightness(150%);
+  opacity: 1;
+
+
 }
 
 .boxsimplicidade {
